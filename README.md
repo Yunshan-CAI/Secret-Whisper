@@ -1,13 +1,13 @@
-# Secret Whisper
+# Secret Whisper🕵️‍♂️🔐
 
 Secret Whisper is a web application that allows users to share and manage their secrets. Users can log in using either traditional username and password or Google account authentication.
 
-## Features
+## Features🌟
 
 - Users can register and log in using either a username/password or Google account.
 - The system supports basic user registration, login, logout, and secret submission functionalities.
 
-## Tech Stack
+## Tech Stack🛠️
 
 - **Frontend**: Uses EJS templating engine to render dynamic content.
 - **Backend**: Built with Node.js and Express.js to serve web requests.
@@ -15,7 +15,7 @@ Secret Whisper is a web application that allows users to share and manage their 
 - **Authentication**: Passport.js for local username/password authentication and Google OAuth2 authentication.
 - **Security**: Uses bcrypt for password hashing to ensure user data security.
 
-## Installation
+## Installation🚀
 
 1. **Clone the Repository**
 
@@ -48,7 +48,7 @@ Note: Ensure the .env file is added to .gitignore to prevent sensitive informati
    
 By default, the project will run on http://localhost:3000.
 
-## Usage
+## Usage📝
 
 - **Register**: 
   - Navigate to the `/register` page.
