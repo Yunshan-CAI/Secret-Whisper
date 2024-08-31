@@ -1,6 +1,6 @@
-# Secret Whisperer
+# Secret Whisper
 
-Secret Whisperer is a web application that allows users to share and manage their secrets. Users can log in using either traditional username and password or Google account authentication.
+Secret Whisper is a web application that allows users to share and manage their secrets. Users can log in using either traditional username and password or Google account authentication.
 
 ## Features
 
