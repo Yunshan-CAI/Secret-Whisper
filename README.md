@@ -48,6 +48,29 @@ Note: Ensure the .env file is added to .gitignore to prevent sensitive informati
    
 By default, the project will run on http://localhost:3000.
 
+## Usage
+
+- **Register**: 
+  - Navigate to the `/register` page.
+  - Enter your email and password to create a new account.
+
+- **Login**: 
+  - Go to the `/login` page.
+  - Log in using your email and password or your Google account.
+
+- **Submit Secret**: 
+  - After logging in, visit the `/submit` page.
+  - Enter your secret in the provided form to submit it.
+
+- **View Secrets**: 
+  - Go to the `/secrets` page.
+  - View the secrets that you have submitted.
+
+- **Logout**: 
+  - Visit the `/logout` page.
+  - You will be logged out of your account.
+
+
 
 
    
